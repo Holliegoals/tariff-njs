@@ -5,6 +5,8 @@
 ![](./assets/1.jpg)
 ![](./assets/2.jpg)
 
+> 灵感来自[tariff-pypi](https://github.com/hxu296/tariff)
+
 ## 功能
 
 - **动态关税**：为指定模块设置关税比例，影响其导入耗时。
