@@ -1,0 +1,25 @@
+{
+  "name": "tariff-njs",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "types": "src/index.ts",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "express": "^5.1.0",
+    "lodash": "^4.17.21",
+    "next": "^15.3.1",
+    "react": "^19.1.0",
+    "ts-loader": "^9.5.2",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.2",
+    "vue": "^3.5.13",
+    "vue-loader": "^17.4.2",
+    "webpack": "^5.99.6"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "tsc && node example",
+    "testonly": "node example"
+  }
+}
